@@ -1,0 +1,4 @@
+plugin-poisoned-QCDAnalysisUEAnalysis.so AnalysisRootpleProducer CMS%EDM%Framework%Module
+plugin-poisoned-QCDAnalysisUEAnalysis.so AnalysisRootpleProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-QCDAnalysisUEAnalysis.so AnalysisRootpleProducerOnlyMC CMS%EDM%Framework%Module
+plugin-poisoned-QCDAnalysisUEAnalysis.so AnalysisRootpleProducerOnlyMC CMS%EDM%Framework%ParameterSet%Description

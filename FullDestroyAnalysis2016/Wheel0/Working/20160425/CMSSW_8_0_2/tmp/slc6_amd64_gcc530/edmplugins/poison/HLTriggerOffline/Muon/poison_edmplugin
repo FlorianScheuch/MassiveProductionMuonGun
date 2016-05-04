@@ -1,0 +1,2 @@
+plugin-poisoned-HLTriggerOfflineMuon.so HLTMuonValidator CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineMuon.so HLTMuonValidator CMS%EDM%Framework%ParameterSet%Description

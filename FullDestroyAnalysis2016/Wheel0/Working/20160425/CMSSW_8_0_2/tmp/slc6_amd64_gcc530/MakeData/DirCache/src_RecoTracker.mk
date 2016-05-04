@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RecoTracker
+subdirs_src_RecoTracker = src_RecoTracker_DeDx

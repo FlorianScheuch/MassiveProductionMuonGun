@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=HLTrigger
+subdirs_src_HLTrigger = src_HLTrigger_special src_HLTrigger_HLTanalyzers src_HLTrigger_JSONMonitoring src_HLTrigger_Egamma src_HLTrigger_Muon src_HLTrigger_JetMET src_HLTrigger_HLTcore src_HLTrigger_btau src_HLTrigger_HLTfilters

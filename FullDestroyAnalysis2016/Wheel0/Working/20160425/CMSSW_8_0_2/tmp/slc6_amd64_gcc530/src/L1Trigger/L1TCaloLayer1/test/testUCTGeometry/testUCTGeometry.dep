@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc530/src/L1Trigger/L1TCaloLayer1/test/testUCTGeometry/testUCTGeometry.o: \
+ src/L1Trigger/L1TCaloLayer1/test/testUCTGeometry.cpp \
+ src/L1Trigger/L1TCaloLayer1/src/UCTGeometry.hh
+

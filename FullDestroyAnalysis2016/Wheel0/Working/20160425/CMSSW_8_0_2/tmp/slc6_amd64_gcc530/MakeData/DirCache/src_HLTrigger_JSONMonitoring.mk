@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTrigger/JSONMonitoring
+subdirs_src_HLTrigger_JSONMonitoring := src_HLTrigger_JSONMonitoring_test src_HLTrigger_JSONMonitoring_plugins src_HLTrigger_JSONMonitoring_interface

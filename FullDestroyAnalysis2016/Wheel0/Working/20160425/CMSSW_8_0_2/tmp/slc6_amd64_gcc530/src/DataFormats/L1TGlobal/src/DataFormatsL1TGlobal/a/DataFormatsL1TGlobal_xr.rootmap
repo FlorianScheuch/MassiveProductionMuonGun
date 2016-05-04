@@ -1,0 +1,22 @@
+{ decls }
+class GlobalAlgBlk;
+namespace edm {  }
+template <typename T> class BXVector;
+class GlobalExtBlk;
+namespace edm { template <typename T> class Wrapper; }
+
+[ libDataFormatsL1TGlobal.so ]
+# List of selected classes
+class BXVector<GlobalAlgBlk>
+class BXVector<GlobalExtBlk>
+class GlobalAlgBlk
+class GlobalAlgBlkBxCollection
+class GlobalExtBlk
+class GlobalExtBlkBxCollection
+class edm::Wrapper<BXVector<GlobalAlgBlk> >
+class edm::Wrapper<BXVector<GlobalExtBlk> >
+class edm::Wrapper<GlobalAlgBlkBxCollection>
+class edm::Wrapper<GlobalExtBlkBxCollection>
+header DataFormats/L1TGlobal/interface/GlobalAlgBlk.h
+header DataFormats/L1TGlobal/interface/GlobalExtBlk.h
+# List of selected typedefs and outer classes

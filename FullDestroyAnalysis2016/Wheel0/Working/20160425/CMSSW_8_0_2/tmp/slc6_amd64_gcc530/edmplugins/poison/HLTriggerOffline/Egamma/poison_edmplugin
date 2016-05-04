@@ -1,0 +1,6 @@
+plugin-poisoned-HLTriggerOfflineEgamma.so EmDQM CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineEgamma.so EmDQM CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerOfflineEgamma.so EmDQMPostProcessor CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineEgamma.so EmDQMPostProcessor CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerOfflineEgamma.so EmDQMReco CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineEgamma.so EmDQMReco CMS%EDM%Framework%ParameterSet%Description

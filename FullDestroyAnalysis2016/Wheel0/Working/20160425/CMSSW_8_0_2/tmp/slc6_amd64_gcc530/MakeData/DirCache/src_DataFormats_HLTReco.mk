@@ -1,0 +1,2 @@
+ALL_PACKAGES += DataFormats/HLTReco
+subdirs_src_DataFormats_HLTReco := src_DataFormats_HLTReco_src src_DataFormats_HLTReco_doc

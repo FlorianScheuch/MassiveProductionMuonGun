@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc493/pluginL1TriggerL1TCalorimeterPlugins.so lib/slc6_amd64_gcc493/L1TriggerL1TCalorimeterPlugins.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc493

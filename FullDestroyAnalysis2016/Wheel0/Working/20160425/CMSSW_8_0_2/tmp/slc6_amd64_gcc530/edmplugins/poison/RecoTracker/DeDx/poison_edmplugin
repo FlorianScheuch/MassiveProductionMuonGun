@@ -1,0 +1,6 @@
+plugin-poisoned-RecoTrackerDeDxPlugins.so DeDxEstimatorProducer CMS%EDM%Framework%Module
+plugin-poisoned-RecoTrackerDeDxPlugins.so DeDxEstimatorProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-RecoTrackerDeDxPlugins.so DeDxHitInfoProducer CMS%EDM%Framework%Module
+plugin-poisoned-RecoTrackerDeDxPlugins.so DeDxHitInfoProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-RecoTrackerDeDxPlugins.so HLTDeDxFilter CMS%EDM%Framework%Module
+plugin-poisoned-RecoTrackerDeDxPlugins.so HLTDeDxFilter CMS%EDM%Framework%ParameterSet%Description

@@ -1,0 +1,3 @@
+ALL_COMMONRULES += src_Calibration_EcalAlCaRecoProducers_test
+src_Calibration_EcalAlCaRecoProducers_test_parent := Calibration/EcalAlCaRecoProducers
+src_Calibration_EcalAlCaRecoProducers_test_INIT_FUNC += $$(eval $$(call CommonProductRules,src_Calibration_EcalAlCaRecoProducers_test,src/Calibration/EcalAlCaRecoProducers/test,TEST))

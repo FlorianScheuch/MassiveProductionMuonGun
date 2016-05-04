@@ -1,0 +1,57 @@
+{ decls }
+namespace l1t {  }
+namespace l1t { class RegionalMuonCand; }
+namespace edm {  }
+template <typename T> class BXVector;
+namespace l1t { class MuonCaloSum; }
+namespace edm { template <typename T> class Wrapper; }
+namespace std {  }
+namespace l1t { namespace emtf {  } }
+
+[ libDataFormatsL1TMuon.so ]
+# List of selected classes
+class BXVector<l1t::MuonCaloSum>
+class BXVector<l1t::RegionalMuonCand>
+class edm::Wrapper<BXVector<l1t::MuonCaloSum> >
+class edm::Wrapper<BXVector<l1t::RegionalMuonCand> >
+class edm::Wrapper<l1t::EMTFOutputCollection>
+class edm::Wrapper<l1t::MuonCaloSumBxCollection>
+class edm::Wrapper<l1t::RegionalMuonCandBxCollection>
+class edm::Wrapper<vector<l1t::EMTFOutput> >
+class l1t::EMTFOutput
+class l1t::EMTFOutputCollection
+class l1t::MuonCaloSum
+class l1t::MuonCaloSumBxCollection
+class l1t::RegionalMuonCand
+class l1t::RegionalMuonCandBxCollection
+class l1t::emtf::AMC13Header
+class l1t::emtf::AMC13Trailer
+class l1t::emtf::Counters
+class l1t::emtf::EventHeader
+class l1t::emtf::EventTrailer
+class l1t::emtf::ME
+class l1t::emtf::MECollection
+class l1t::emtf::MTF7Header
+class l1t::emtf::MTF7Trailer
+class l1t::emtf::RPC
+class l1t::emtf::RPCCollection
+class l1t::emtf::SP
+class l1t::emtf::SPCollection
+class vector<l1t::EMTFOutput>
+class vector<l1t::emtf::ME>
+class vector<l1t::emtf::RPC>
+class vector<l1t::emtf::SP>
+header DataFormats/L1TMuon/interface/EMTFOutput.h
+header DataFormats/L1TMuon/interface/MuonCaloSum.h
+header DataFormats/L1TMuon/interface/RegionalMuonCand.h
+header DataFormats/L1TMuon/interface/EMTF/AMC13Header.h
+header DataFormats/L1TMuon/interface/EMTF/AMC13Trailer.h
+header DataFormats/L1TMuon/interface/EMTF/Counters.h
+header DataFormats/L1TMuon/interface/EMTF/EventHeader.h
+header DataFormats/L1TMuon/interface/EMTF/EventTrailer.h
+header DataFormats/L1TMuon/interface/EMTF/ME.h
+header DataFormats/L1TMuon/interface/EMTF/MTF7Header.h
+header DataFormats/L1TMuon/interface/EMTF/MTF7Trailer.h
+header DataFormats/L1TMuon/interface/EMTF/RPC.h
+header DataFormats/L1TMuon/interface/EMTF/SP.h
+# List of selected typedefs and outer classes

@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc530/src/CaloOnlineTools/EcalTools/src/CaloOnlineToolsEcalTools/EcalFedMap.o: \
+ src/CaloOnlineTools/EcalTools/src/EcalFedMap.cc \
+ src/CaloOnlineTools/EcalTools/interface/EcalFedMap.h
+

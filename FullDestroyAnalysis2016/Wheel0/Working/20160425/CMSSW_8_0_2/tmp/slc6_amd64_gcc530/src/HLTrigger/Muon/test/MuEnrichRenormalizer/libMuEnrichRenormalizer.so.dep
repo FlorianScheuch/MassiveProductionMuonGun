@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc530/src/HLTrigger/Muon/test/MuEnrichRenormalizer/MuEnrichRenormalizer.o: \
+ src/HLTrigger/Muon/test/MuEnrichRenormalizer.cc \
+ src/HLTrigger/Muon/test/MuEnrichRenormalizer.h \
+

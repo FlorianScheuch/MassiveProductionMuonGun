@@ -1,0 +1,2 @@
+ALL_PACKAGES += L1Trigger/L1TMuonEndCap
+subdirs_src_L1Trigger_L1TMuonEndCap := src_L1Trigger_L1TMuonEndCap_python src_L1Trigger_L1TMuonEndCap_src src_L1Trigger_L1TMuonEndCap_test src_L1Trigger_L1TMuonEndCap_plugins src_L1Trigger_L1TMuonEndCap_interface

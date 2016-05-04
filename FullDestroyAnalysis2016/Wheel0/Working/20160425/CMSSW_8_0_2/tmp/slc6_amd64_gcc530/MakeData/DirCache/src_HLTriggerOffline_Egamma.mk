@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTriggerOffline/Egamma
+subdirs_src_HLTriggerOffline_Egamma := src_HLTriggerOffline_Egamma_python src_HLTriggerOffline_Egamma_src src_HLTriggerOffline_Egamma_test src_HLTriggerOffline_Egamma_interface

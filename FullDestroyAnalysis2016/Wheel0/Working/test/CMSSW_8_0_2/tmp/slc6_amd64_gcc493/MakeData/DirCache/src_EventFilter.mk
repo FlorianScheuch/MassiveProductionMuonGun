@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=EventFilter
+subdirs_src_EventFilter = src_EventFilter_L1TRawToDigi src_EventFilter_L1TXRawToDigi

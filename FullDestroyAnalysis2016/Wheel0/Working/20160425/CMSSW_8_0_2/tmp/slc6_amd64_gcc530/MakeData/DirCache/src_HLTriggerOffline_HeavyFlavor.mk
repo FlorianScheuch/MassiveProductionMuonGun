@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTriggerOffline/HeavyFlavor
+subdirs_src_HLTriggerOffline_HeavyFlavor := src_HLTriggerOffline_HeavyFlavor_python src_HLTriggerOffline_HeavyFlavor_src src_HLTriggerOffline_HeavyFlavor_test

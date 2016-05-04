@@ -1,0 +1,6 @@
+plugin-poisoned-HLTriggerOfflineHeavyFlavor.so HeavyFlavorHarvesting CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineHeavyFlavor.so HeavyFlavorHarvesting CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerOfflineHeavyFlavor.so HeavyFlavorValidation CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineHeavyFlavor.so HeavyFlavorValidation CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerOfflineHeavyFlavor.so PlotCombiner CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineHeavyFlavor.so PlotCombiner CMS%EDM%Framework%ParameterSet%Description

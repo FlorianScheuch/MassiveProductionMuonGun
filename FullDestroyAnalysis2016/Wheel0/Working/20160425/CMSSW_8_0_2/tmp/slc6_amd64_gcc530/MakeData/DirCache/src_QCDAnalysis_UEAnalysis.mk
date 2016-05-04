@@ -1,0 +1,2 @@
+ALL_PACKAGES += QCDAnalysis/UEAnalysis
+subdirs_src_QCDAnalysis_UEAnalysis := src_QCDAnalysis_UEAnalysis_python src_QCDAnalysis_UEAnalysis_src

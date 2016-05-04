@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTriggerOffline/JetMET
+subdirs_src_HLTriggerOffline_JetMET := src_HLTriggerOffline_JetMET_python src_HLTriggerOffline_JetMET_src src_HLTriggerOffline_JetMET_test

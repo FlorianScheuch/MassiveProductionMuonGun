@@ -1,0 +1,2 @@
+ALL_PACKAGES += DQM/L1TMonitor
+subdirs_src_DQM_L1TMonitor := src_DQM_L1TMonitor_python src_DQM_L1TMonitor_src src_DQM_L1TMonitor_test

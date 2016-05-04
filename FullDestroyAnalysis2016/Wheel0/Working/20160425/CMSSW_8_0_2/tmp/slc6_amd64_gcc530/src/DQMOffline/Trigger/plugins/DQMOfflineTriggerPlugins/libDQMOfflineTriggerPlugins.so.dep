@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc530/src/DQMOffline/Trigger/plugins/DQMOfflineTriggerPlugins/DQMGenericTnPClient.o: \
+ src/DQMOffline/Trigger/plugins/DQMGenericTnPClient.cc \
+ src/DQMOffline/Trigger/plugins/GenericTnPFitter.h \
+

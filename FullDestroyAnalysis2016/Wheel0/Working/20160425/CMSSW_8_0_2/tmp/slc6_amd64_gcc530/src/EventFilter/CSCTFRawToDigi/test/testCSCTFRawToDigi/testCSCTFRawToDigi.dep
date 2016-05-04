@@ -1,0 +1,3 @@
+tmp/slc6_amd64_gcc530/src/EventFilter/CSCTFRawToDigi/test/testCSCTFRawToDigi/testCSCTFRawToDigi.o: \
+ src/EventFilter/CSCTFRawToDigi/test/testCSCTFRawToDigi.cpp \
+

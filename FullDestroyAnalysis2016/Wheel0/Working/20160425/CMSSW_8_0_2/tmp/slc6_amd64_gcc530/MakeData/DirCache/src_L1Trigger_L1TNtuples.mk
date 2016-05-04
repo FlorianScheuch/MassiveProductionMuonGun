@@ -1,0 +1,2 @@
+ALL_PACKAGES += L1Trigger/L1TNtuples
+subdirs_src_L1Trigger_L1TNtuples := src_L1Trigger_L1TNtuples_python src_L1Trigger_L1TNtuples_src src_L1Trigger_L1TNtuples_test src_L1Trigger_L1TNtuples_plugins

@@ -1,0 +1,8 @@
+plugin-poisoned-EventFilterCSCTFRawToDigiPlugins.so CSCTFAnalyzer CMS%EDM%Framework%Module
+plugin-poisoned-EventFilterCSCTFRawToDigiPlugins.so CSCTFAnalyzer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-EventFilterCSCTFRawToDigiPlugins.so CSCTFPacker CMS%EDM%Framework%Module
+plugin-poisoned-EventFilterCSCTFRawToDigiPlugins.so CSCTFPacker CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-EventFilterCSCTFRawToDigiPlugins.so CSCTFUnpacker CMS%EDM%Framework%Module
+plugin-poisoned-EventFilterCSCTFRawToDigiPlugins.so CSCTFUnpacker CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-EventFilterCSCTFSingleGen_test.so CSCTFSingleGen CMS%EDM%Framework%Module
+plugin-poisoned-EventFilterCSCTFSingleGen_test.so CSCTFSingleGen CMS%EDM%Framework%ParameterSet%Description

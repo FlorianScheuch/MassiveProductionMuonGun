@@ -1,0 +1,6 @@
+plugin-poisoned-L1TriggerL1TCommonAuto.so L1TBasicDemo CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerL1TCommonAuto.so L1TBasicDemo CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerL1TCommonAuto.so L1TConfigDumper CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerL1TCommonAuto.so L1TConfigDumper CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerL1TCommonAuto.so L1TSummary CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerL1TCommonAuto.so L1TSummary CMS%EDM%Framework%ParameterSet%Description

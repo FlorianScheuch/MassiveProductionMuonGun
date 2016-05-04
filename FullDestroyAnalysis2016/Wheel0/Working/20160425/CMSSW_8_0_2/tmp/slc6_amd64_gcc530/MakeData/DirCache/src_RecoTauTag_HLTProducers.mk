@@ -1,0 +1,2 @@
+ALL_PACKAGES += RecoTauTag/HLTProducers
+subdirs_src_RecoTauTag_HLTProducers := src_RecoTauTag_HLTProducers_python src_RecoTauTag_HLTProducers_src src_RecoTauTag_HLTProducers_interface

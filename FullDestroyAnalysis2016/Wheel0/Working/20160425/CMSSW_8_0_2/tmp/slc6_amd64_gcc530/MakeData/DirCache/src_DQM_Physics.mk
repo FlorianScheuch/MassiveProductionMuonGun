@@ -1,0 +1,2 @@
+ALL_PACKAGES += DQM/Physics
+subdirs_src_DQM_Physics := src_DQM_Physics_python src_DQM_Physics_src src_DQM_Physics_test src_DQM_Physics_interface src_DQM_Physics_doc

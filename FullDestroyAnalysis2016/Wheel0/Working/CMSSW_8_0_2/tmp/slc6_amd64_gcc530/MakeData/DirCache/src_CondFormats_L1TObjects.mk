@@ -1,0 +1,2 @@
+ALL_PACKAGES += CondFormats/L1TObjects
+subdirs_src_CondFormats_L1TObjects := src_CondFormats_L1TObjects_src src_CondFormats_L1TObjects_test src_CondFormats_L1TObjects_interface src_CondFormats_L1TObjects_doc

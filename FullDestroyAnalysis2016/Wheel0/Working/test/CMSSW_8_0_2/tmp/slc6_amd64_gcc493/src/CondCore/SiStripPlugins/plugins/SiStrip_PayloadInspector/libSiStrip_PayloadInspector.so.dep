@@ -1,0 +1,5 @@
+tmp/slc6_amd64_gcc493/src/CondCore/SiStripPlugins/plugins/SiStrip_PayloadInspector/SiStripDetVOff_PayloadInspector.o: \
+ src/CondCore/SiStripPlugins/plugins/SiStripDetVOff_PayloadInspector.cc \
+ src/CondCore/Utilities/interface/PayloadInspectorModule.h \
+ src/CondCore/Utilities/interface/JsonPrinter.h \
+

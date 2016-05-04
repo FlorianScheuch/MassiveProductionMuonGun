@@ -1,0 +1,16 @@
+plugin-poisoned-HLTriggerHLTcorePlugins.so HLTEventAnalyzerAOD CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerHLTcorePlugins.so HLTEventAnalyzerAOD CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerHLTcorePlugins.so HLTEventAnalyzerRAW CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerHLTcorePlugins.so HLTEventAnalyzerRAW CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerHLTcorePlugins.so HLTPrescaleRecorder CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerHLTcorePlugins.so HLTPrescaleRecorder CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerHLTcorePlugins.so HLTPrescaler CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerHLTcorePlugins.so HLTPrescaler CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerHLTcorePlugins.so TriggerSummaryAnalyzerAOD CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerHLTcorePlugins.so TriggerSummaryAnalyzerAOD CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerHLTcorePlugins.so TriggerSummaryAnalyzerRAW CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerHLTcorePlugins.so TriggerSummaryAnalyzerRAW CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerHLTcorePlugins.so TriggerSummaryProducerAOD CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerHLTcorePlugins.so TriggerSummaryProducerAOD CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerHLTcorePlugins.so TriggerSummaryProducerRAW CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerHLTcorePlugins.so TriggerSummaryProducerRAW CMS%EDM%Framework%ParameterSet%Description

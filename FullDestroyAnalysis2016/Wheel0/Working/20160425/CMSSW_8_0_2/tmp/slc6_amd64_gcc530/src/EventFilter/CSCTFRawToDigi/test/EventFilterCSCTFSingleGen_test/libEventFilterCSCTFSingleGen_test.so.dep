@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc530/src/EventFilter/CSCTFRawToDigi/test/EventFilterCSCTFSingleGen_test/CSCTFSingleGen.o: \
+ src/EventFilter/CSCTFRawToDigi/test/CSCTFSingleGen.cc \
+ src/EventFilter/CSCTFRawToDigi/test/CSCTFSingleGen.h \
+

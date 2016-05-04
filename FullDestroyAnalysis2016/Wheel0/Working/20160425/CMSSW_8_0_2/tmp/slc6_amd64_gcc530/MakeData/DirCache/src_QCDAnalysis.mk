@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=QCDAnalysis
+subdirs_src_QCDAnalysis = src_QCDAnalysis_UEAnalysis

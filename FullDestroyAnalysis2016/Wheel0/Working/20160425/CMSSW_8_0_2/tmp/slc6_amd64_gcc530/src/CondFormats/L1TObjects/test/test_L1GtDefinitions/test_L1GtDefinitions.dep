@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc530/src/CondFormats/L1TObjects/test/test_L1GtDefinitions/test_L1GtDefinitions.o: \
+ src/CondFormats/L1TObjects/test/test_L1GtDefinitions.cc \
+ src/CondFormats/L1TObjects/interface/L1GtDefinitions.h
+

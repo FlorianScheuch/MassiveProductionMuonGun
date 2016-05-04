@@ -1,0 +1,2 @@
+ALL_PACKAGES += EventFilter/L1TRawToDigi
+subdirs_src_EventFilter_L1TRawToDigi := src_EventFilter_L1TRawToDigi_python src_EventFilter_L1TRawToDigi_src src_EventFilter_L1TRawToDigi_test src_EventFilter_L1TRawToDigi_plugins

@@ -1,0 +1,31 @@
+tmp/slc6_amd64_gcc530/src/EventFilter/CSCTFRawToDigi/src/EventFilterCSCTFRawToDigi/CSCTFEvent.o: \
+ src/EventFilter/CSCTFRawToDigi/src/CSCTFEvent.cc \
+ src/EventFilter/CSCTFRawToDigi/src/CSCTFEvent.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPEvent.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPHeader.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPCounters.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPRecord.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_MEblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_MBblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_SPblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPTrailer.h
+
+tmp/slc6_amd64_gcc530/src/EventFilter/CSCTFRawToDigi/src/EventFilterCSCTFRawToDigi/CSCSPEvent.o: \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPEvent.cc \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPEvent.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPHeader.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPCounters.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPRecord.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_MEblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_MBblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_SPblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPTrailer.h
+
+tmp/slc6_amd64_gcc530/src/EventFilter/CSCTFRawToDigi/src/EventFilterCSCTFRawToDigi/CSCSPRecord.o: \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPRecord.cc \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPRecord.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_MEblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_MBblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSP_SPblock.h \
+ src/EventFilter/CSCTFRawToDigi/src/CSCSPHeader.h
+

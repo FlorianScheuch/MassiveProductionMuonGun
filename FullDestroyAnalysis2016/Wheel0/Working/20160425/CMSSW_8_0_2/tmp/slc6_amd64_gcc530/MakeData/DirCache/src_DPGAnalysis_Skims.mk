@@ -1,0 +1,2 @@
+ALL_PACKAGES += DPGAnalysis/Skims
+subdirs_src_DPGAnalysis_Skims := src_DPGAnalysis_Skims_python src_DPGAnalysis_Skims_src src_DPGAnalysis_Skims_interface src_DPGAnalysis_Skims_data

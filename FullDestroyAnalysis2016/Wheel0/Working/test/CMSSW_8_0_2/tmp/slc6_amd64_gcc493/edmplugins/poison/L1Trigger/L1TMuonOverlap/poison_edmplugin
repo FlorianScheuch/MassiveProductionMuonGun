@@ -1,0 +1,4 @@
+plugin-poisoned-L1TriggerL1TMuonOverlapPlugins.so L1TMuonOverlapParamsESProducer CMS%EDM%Framework%ESModule
+plugin-poisoned-L1TriggerL1TMuonOverlapPlugins.so L1TMuonOverlapParamsESProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerL1TMuonOverlapPlugins.so L1TMuonOverlapTrackProducer CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerL1TMuonOverlapPlugins.so L1TMuonOverlapTrackProducer CMS%EDM%Framework%ParameterSet%Description

@@ -1,0 +1,3 @@
+tmp/slc6_amd64_gcc493/src/CondCore/SiStripPlugins/src/CondCoreSiStripPlugins/plugin.o: \
+ src/CondCore/SiStripPlugins/src/plugin.cc \
+

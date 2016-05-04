@@ -1,0 +1,72 @@
+{ decls }
+namespace edm {  }
+namespace std {  }
+namespace edm { class EventTime; }
+class HLTPerformanceInfo;
+namespace __gnu_cxx {  }
+namespace __gnu_cxx { template <typename _Iterator, typename _Container> class __normal_iterator; }
+namespace trigger {  }
+namespace edm { template <typename T> class Wrapper; }
+namespace trigger { class TriggerFilterObjectWithRefs; }
+namespace trigger { class TriggerEvent; }
+namespace trigger { class TriggerEventWithRefs; }
+namespace trigger { class HLTPrescaleTable; }
+
+[ libDataFormatsHLTReco.so ]
+# List of selected classes
+class HLTPerformanceInfo
+class HLTPerformanceInfo::Module
+class HLTPerformanceInfo::Path
+class __gnu_cxx::__normal_iterator<const HLTPerformanceInfo::Module*,vector<HLTPerformanceInfo::Module> >
+class __gnu_cxx::__normal_iterator<const HLTPerformanceInfo::Path*,vector<HLTPerformanceInfo::Path> >
+class __gnu_cxx::__normal_iterator<const trigger::TriggerObjectType*,vector<trigger::TriggerObjectType> >
+class edm::EventTime
+class edm::ModuleTime
+class edm::Wrapper<HLTPerformanceInfo>
+class edm::Wrapper<edm::EventTime>
+class edm::Wrapper<trigger::HLTPrescaleTable>
+class edm::Wrapper<trigger::TriggerEvent>
+class edm::Wrapper<trigger::TriggerEventWithRefs>
+class edm::Wrapper<trigger::TriggerFilterObjectWithRefs>
+class edm::Wrapper<trigger::TriggerObjectCollection>
+class edm::Wrapper<vector<trigger::TriggerObject> >
+class map<std::string,std::vector<unsigned int> >
+class map<string,vector<unsigned int> >
+class trigger::HLTPrescaleTable
+class trigger::TriggerEvent
+class trigger::TriggerEvent
+class trigger::TriggerEventWithRefs
+class trigger::TriggerEventWithRefs
+class trigger::TriggerFilterObjectWithRefs
+class trigger::TriggerObject
+class trigger::TriggerObjectCollection
+class trigger::TriggerRefsCollections
+class vector<HLTPerformanceInfo::Module>
+class vector<HLTPerformanceInfo::Module>::const_iterator
+class vector<HLTPerformanceInfo::Path>
+class vector<HLTPerformanceInfo::Path>::const_iterator
+class vector<edm::ModuleTime>
+class vector<edm::Ref<std::vector<reco::Electron>,reco::Electron,edm::refhelper::FindUsingAdvance<std::vector<reco::Electron>,reco::Electron> > >
+class vector<edm::Ref<std::vector<reco::PFTau>,reco::PFTau,edm::refhelper::FindUsingAdvance<std::vector<reco::PFTau>,reco::PFTau> > >
+class vector<edm::Ref<std::vector<reco::RecoChargedCandidate>,reco::RecoChargedCandidate,edm::refhelper::FindUsingAdvance<std::vector<reco::RecoChargedCandidate>,reco::RecoChargedCandidate> > >
+class vector<edm::Ref<std::vector<reco::RecoEcalCandidate>,reco::RecoEcalCandidate,edm::refhelper::FindUsingAdvance<std::vector<reco::RecoEcalCandidate>,reco::RecoEcalCandidate> > >
+class vector<edm::Ref<vector<reco::Electron>,reco::Electron,edm::refhelper::FindUsingAdvance<vector<reco::Electron>,reco::Electron> > >
+class vector<edm::Ref<vector<reco::PFTau>,reco::PFTau,edm::refhelper::FindUsingAdvance<vector<reco::PFTau>,reco::PFTau> > >
+class vector<edm::Ref<vector<reco::RecoChargedCandidate>,reco::RecoChargedCandidate,edm::refhelper::FindUsingAdvance<vector<reco::RecoChargedCandidate>,reco::RecoChargedCandidate> > >
+class vector<edm::Ref<vector<reco::RecoEcalCandidate>,reco::RecoEcalCandidate,edm::refhelper::FindUsingAdvance<vector<reco::RecoEcalCandidate>,reco::RecoEcalCandidate> > >
+class vector<trigger::TriggerEvent::TriggerFilterObject>
+class vector<trigger::TriggerEventWithRefs::TriggerFilterObject>
+class vector<trigger::TriggerObject>
+class vector<trigger::TriggerObjectType>
+class vector<trigger::TriggerObjectType>::const_iterator
+header DataFormats/HLTReco/interface/HLTPerformanceInfo.h
+header DataFormats/HLTReco/interface/ModuleTiming.h
+header DataFormats/HLTReco/interface/HLTPrescaleTable.h
+header DataFormats/HLTReco/interface/TriggerEvent.h
+header DataFormats/HLTReco/interface/TriggerEventWithRefs.h
+header DataFormats/HLTReco/interface/TriggerFilterObjectWithRefs.h
+header DataFormats/HLTReco/interface/TriggerObject.h
+header DataFormats/HLTReco/interface/TriggerRefsCollections.h
+# List of selected typedefs and outer classes
+# List of selected enums and outer classes
+enum trigger::TriggerObjectType

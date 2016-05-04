@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTrigger/HLTfilters
+subdirs_src_HLTrigger_HLTfilters := src_HLTrigger_HLTfilters_python src_HLTrigger_HLTfilters_src src_HLTrigger_HLTfilters_test src_HLTrigger_HLTfilters_interface

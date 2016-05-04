@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc493/pluginCondCoreL1TPlugins.so lib/slc6_amd64_gcc493/CondCoreL1TPlugins.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc493

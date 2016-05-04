@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTrigger/Muon
+subdirs_src_HLTrigger_Muon := src_HLTrigger_Muon_python src_HLTrigger_Muon_src src_HLTrigger_Muon_test

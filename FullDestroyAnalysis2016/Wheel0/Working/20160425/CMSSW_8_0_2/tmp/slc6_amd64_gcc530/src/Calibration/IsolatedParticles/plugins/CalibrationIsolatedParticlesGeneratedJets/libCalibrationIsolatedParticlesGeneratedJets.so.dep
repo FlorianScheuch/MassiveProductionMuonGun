@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc530/src/Calibration/IsolatedParticles/plugins/CalibrationIsolatedParticlesGeneratedJets/IsolatedParticlesGeneratedJets.o: \
+ src/Calibration/IsolatedParticles/plugins/IsolatedParticlesGeneratedJets.cc \
+ src/Calibration/IsolatedParticles/plugins/IsolatedParticlesGeneratedJets.h \
+

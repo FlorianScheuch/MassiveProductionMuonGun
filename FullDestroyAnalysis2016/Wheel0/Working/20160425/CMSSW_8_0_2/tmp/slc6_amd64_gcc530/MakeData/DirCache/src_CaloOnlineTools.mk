@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=CaloOnlineTools
+subdirs_src_CaloOnlineTools = src_CaloOnlineTools_EcalTools

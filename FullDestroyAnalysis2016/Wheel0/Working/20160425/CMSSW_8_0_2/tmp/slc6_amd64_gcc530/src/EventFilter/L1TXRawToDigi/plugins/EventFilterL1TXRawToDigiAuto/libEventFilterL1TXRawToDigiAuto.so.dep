@@ -1,0 +1,10 @@
+tmp/slc6_amd64_gcc530/src/EventFilter/L1TXRawToDigi/plugins/EventFilterL1TXRawToDigiAuto/L1TTwinMuxRawToDigi.o: \
+ src/EventFilter/L1TXRawToDigi/plugins/L1TTwinMuxRawToDigi.cc \
+ src/EventFilter/L1TXRawToDigi/plugins/L1TTwinMuxRawToDigi.h \
+
+tmp/slc6_amd64_gcc530/src/EventFilter/L1TXRawToDigi/plugins/EventFilterL1TXRawToDigiAuto/L1TCaloLayer1RawToDigi.o: \
+ src/EventFilter/L1TXRawToDigi/plugins/L1TCaloLayer1RawToDigi.cc \
+ src/EventFilter/L1TXRawToDigi/plugins/UCTDAQRawData.h \
+ src/EventFilter/L1TXRawToDigi/plugins/UCTAMCRawData.h \
+ src/EventFilter/L1TXRawToDigi/plugins/UCTCTP7RawData.h
+

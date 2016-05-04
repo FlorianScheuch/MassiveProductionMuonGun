@@ -1,0 +1,8 @@
+plugin-poisoned-CalibrationEcalAlCaRecoProducersAuto.so AlCaECALRecHitReducer CMS%EDM%Framework%Module
+plugin-poisoned-CalibrationEcalAlCaRecoProducersAuto.so AlCaECALRecHitReducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-CalibrationEcalAlCaRecoProducersAuto.so AlCaElectronTracksReducer CMS%EDM%Framework%Module
+plugin-poisoned-CalibrationEcalAlCaRecoProducersAuto.so AlCaElectronTracksReducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-CalibrationEcalAlCaRecoProducersAuto.so PUDumper CMS%EDM%Framework%Module
+plugin-poisoned-CalibrationEcalAlCaRecoProducersAuto.so PUDumper CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-CalibrationEcalAlCaRecoProducersAuto.so SelectedElectronFEDListProducerGsf CMS%EDM%Framework%Module
+plugin-poisoned-CalibrationEcalAlCaRecoProducersAuto.so SelectedElectronFEDListProducerGsf CMS%EDM%Framework%ParameterSet%Description

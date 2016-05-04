@@ -1,0 +1,3 @@
+tmp/slc6_amd64_gcc530/src/CondCore/EcalPlugins/src/CondCoreEcalPlugins/plugin.o: \
+ src/CondCore/EcalPlugins/src/plugin.cc \
+

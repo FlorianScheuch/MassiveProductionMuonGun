@@ -1,0 +1,2 @@
+ALL_PACKAGES += EventFilter/L1TXRawToDigi
+subdirs_src_EventFilter_L1TXRawToDigi := src_EventFilter_L1TXRawToDigi_python src_EventFilter_L1TXRawToDigi_test src_EventFilter_L1TXRawToDigi_plugins

@@ -1,0 +1,37 @@
+{ decls }
+namespace l1t {  }
+namespace l1t { class CaloEmCand; }
+namespace edm {  }
+template <typename T> class BXVector;
+namespace l1t { class CaloRegion; }
+namespace edm { template <typename T> class Wrapper; }
+namespace l1t { class CaloTower; }
+namespace l1t { class CaloCluster; }
+
+[ libDataFormatsL1TCalorimeter.so ]
+# List of selected classes
+class BXVector<l1t::CaloCluster>
+class BXVector<l1t::CaloEmCand>
+class BXVector<l1t::CaloRegion>
+class BXVector<l1t::CaloTower>
+class edm::Wrapper<BXVector<l1t::CaloCluster> >
+class edm::Wrapper<BXVector<l1t::CaloEmCand> >
+class edm::Wrapper<BXVector<l1t::CaloRegion> >
+class edm::Wrapper<BXVector<l1t::CaloTower> >
+class edm::Wrapper<l1t::CaloClusterBxCollection>
+class edm::Wrapper<l1t::CaloEmCandBxCollection>
+class edm::Wrapper<l1t::CaloRegionBxCollection>
+class edm::Wrapper<l1t::CaloTowerBxCollection>
+class l1t::CaloCluster
+class l1t::CaloClusterBxCollection
+class l1t::CaloEmCand
+class l1t::CaloEmCandBxCollection
+class l1t::CaloRegion
+class l1t::CaloRegionBxCollection
+class l1t::CaloTower
+class l1t::CaloTowerBxCollection
+header DataFormats/L1TCalorimeter/interface/CaloCluster.h
+header DataFormats/L1TCalorimeter/interface/CaloEmCand.h
+header DataFormats/L1TCalorimeter/interface/CaloRegion.h
+header DataFormats/L1TCalorimeter/interface/CaloTower.h
+# List of selected typedefs and outer classes

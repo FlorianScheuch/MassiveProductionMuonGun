@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=ElectroWeakAnalysis
+subdirs_src_ElectroWeakAnalysis = src_ElectroWeakAnalysis_WENu src_ElectroWeakAnalysis_ZMuMu

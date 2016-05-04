@@ -1,0 +1,8 @@
+plugin-poisoned-L1TriggerL1TMuonBarrelPlugins.so L1TMuonBarrelParamsESProducer CMS%EDM%Framework%ESModule
+plugin-poisoned-L1TriggerL1TMuonBarrelPlugins.so L1TMuonBarrelParamsESProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerL1TMuonBarrelPlugins.so L1TMuonBarrelTrackProducer CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerL1TMuonBarrelPlugins.so L1TMuonBarrelTrackProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerL1TMuonBarrelPlugins.so L1TTwinMuxProducer CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerL1TMuonBarrelPlugins.so L1TTwinMuxProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerL1TMuonBarrelPlugins.so sptf CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerL1TMuonBarrelPlugins.so sptf CMS%EDM%Framework%ParameterSet%Description

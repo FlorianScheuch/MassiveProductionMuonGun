@@ -1,0 +1,2 @@
+ALL_PACKAGES += DataFormats/L1TCalorimeter
+subdirs_src_DataFormats_L1TCalorimeter := src_DataFormats_L1TCalorimeter_src src_DataFormats_L1TCalorimeter_interface

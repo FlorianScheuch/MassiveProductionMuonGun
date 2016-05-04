@@ -1,0 +1,2 @@
+ALL_PACKAGES += CondCore/SiStripPlugins
+subdirs_src_CondCore_SiStripPlugins := src_CondCore_SiStripPlugins_src src_CondCore_SiStripPlugins_plugins

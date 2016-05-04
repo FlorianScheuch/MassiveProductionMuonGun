@@ -1,0 +1,2 @@
+ALL_PACKAGES += ElectroWeakAnalysis/ZMuMu
+subdirs_src_ElectroWeakAnalysis_ZMuMu := src_ElectroWeakAnalysis_ZMuMu_python src_ElectroWeakAnalysis_ZMuMu_src src_ElectroWeakAnalysis_ZMuMu_test src_ElectroWeakAnalysis_ZMuMu_plugins src_ElectroWeakAnalysis_ZMuMu_bin

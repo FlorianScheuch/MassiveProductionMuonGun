@@ -1,0 +1,2 @@
+plugin-poisoned-L1TriggerL1TMuonEndCapPlugins.so L1TMuonEndCapTrackProducer CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerL1TMuonEndCapPlugins.so L1TMuonEndCapTrackProducer CMS%EDM%Framework%ParameterSet%Description

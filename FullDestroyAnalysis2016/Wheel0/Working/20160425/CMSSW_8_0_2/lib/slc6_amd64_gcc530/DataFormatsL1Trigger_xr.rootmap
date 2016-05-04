@@ -1,0 +1,238 @@
+{ decls }
+namespace l1t {  }
+namespace l1t { class L1Candidate; }
+namespace edm {  }
+template <typename T> class BXVector;
+namespace edm { namespace refhelper { template <typename C, typename T> class FindUsingAdvance; } }
+namespace edm { template <typename C, typename T, typename F> class Ref; }
+namespace edm { template <typename C, typename T, typename F> class RefVector; }
+namespace edm { template <typename T> class Wrapper; }
+namespace std {  }
+namespace l1t { class Jet; }
+namespace l1t { class EGamma; }
+namespace l1t { class EtSum; }
+namespace l1t { class Tau; }
+namespace l1t { class Muon; }
+namespace l1t { class CaloSpare; }
+namespace l1extra {  }
+namespace l1extra { class L1EtMissParticle; }
+namespace l1extra { class L1EmParticle; }
+namespace l1extra { class L1JetParticle; }
+namespace l1extra { class L1MuonParticle; }
+namespace l1extra { class L1HFRings; }
+namespace edm { template <typename C> class RefProd; }
+namespace edm { namespace reftobase {  } }
+namespace reco { class Candidate; }
+namespace edm { namespace reftobase { template <typename T, typename REF> class Holder; } }
+class L1DataEmulRecord;
+namespace l1t { class L1DataEmulResult; }
+
+[ libDataFormatsL1Trigger.so ]
+# List of selected classes
+class BXVector<l1t::CaloSpare>
+class BXVector<l1t::EGamma>
+class BXVector<l1t::EtSum>
+class BXVector<l1t::Jet>
+class BXVector<l1t::L1Candidate>
+class BXVector<l1t::L1DataEmulResult>
+class BXVector<l1t::Muon>
+class BXVector<l1t::Tau>
+class GltDEDigi
+class L1DataEmulDigi
+class L1DataEmulRecord
+class L1MonitorDigi
+class L1TriggerError
+class edm::Ref<BXVector<l1t::EGamma>,l1t::EGamma,edm::refhelper::FindUsingAdvance<BXVector<l1t::EGamma>,l1t::EGamma> >
+class edm::Ref<BXVector<l1t::EtSum>,l1t::EtSum,edm::refhelper::FindUsingAdvance<BXVector<l1t::EtSum>,l1t::EtSum> >
+class edm::Ref<BXVector<l1t::Jet>,l1t::Jet,edm::refhelper::FindUsingAdvance<BXVector<l1t::Jet>,l1t::Jet> >
+class edm::Ref<BXVector<l1t::L1Candidate>,l1t::L1Candidate,edm::refhelper::FindUsingAdvance<BXVector<l1t::L1Candidate>,l1t::L1Candidate> >
+class edm::Ref<BXVector<l1t::Muon>,l1t::Muon,edm::refhelper::FindUsingAdvance<BXVector<l1t::Muon>,l1t::Muon> >
+class edm::Ref<BXVector<l1t::Tau>,l1t::Tau,edm::refhelper::FindUsingAdvance<BXVector<l1t::Tau>,l1t::Tau> >
+class edm::Ref<std::vector<l1extra::L1EmParticle>,l1extra::L1EmParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1EmParticle>,l1extra::L1EmParticle> >
+class edm::Ref<std::vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle> >
+class edm::Ref<std::vector<l1extra::L1HFRings>,l1extra::L1HFRings,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1HFRings>,l1extra::L1HFRings> >
+class edm::Ref<std::vector<l1extra::L1JetParticle>,l1extra::L1JetParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1JetParticle>,l1extra::L1JetParticle> >
+class edm::Ref<std::vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle> >
+class edm::Ref<vector<l1extra::L1EmParticle>,l1extra::L1EmParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1EmParticle>,l1extra::L1EmParticle> >
+class edm::Ref<vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle> >
+class edm::Ref<vector<l1extra::L1HFRings>,l1extra::L1HFRings,edm::refhelper::FindUsingAdvance<vector<l1extra::L1HFRings>,l1extra::L1HFRings> >
+class edm::Ref<vector<l1extra::L1JetParticle>,l1extra::L1JetParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1JetParticle>,l1extra::L1JetParticle> >
+class edm::Ref<vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle> >
+class edm::RefProd<l1extra::L1EtMissParticle>
+class edm::RefVector<BXVector<l1t::EGamma>,l1t::EGamma,edm::refhelper::FindUsingAdvance<BXVector<l1t::EGamma>,l1t::EGamma> >
+class edm::RefVector<BXVector<l1t::EtSum>,l1t::EtSum,edm::refhelper::FindUsingAdvance<BXVector<l1t::EtSum>,l1t::EtSum> >
+class edm::RefVector<BXVector<l1t::Jet>,l1t::Jet,edm::refhelper::FindUsingAdvance<BXVector<l1t::Jet>,l1t::Jet> >
+class edm::RefVector<BXVector<l1t::L1Candidate>,l1t::L1Candidate,edm::refhelper::FindUsingAdvance<BXVector<l1t::L1Candidate>,l1t::L1Candidate> >
+class edm::RefVector<BXVector<l1t::Muon>,l1t::Muon,edm::refhelper::FindUsingAdvance<BXVector<l1t::Muon>,l1t::Muon> >
+class edm::RefVector<BXVector<l1t::Tau>,l1t::Tau,edm::refhelper::FindUsingAdvance<BXVector<l1t::Tau>,l1t::Tau> >
+class edm::RefVector<std::vector<l1extra::L1EmParticle>,l1extra::L1EmParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1EmParticle>,l1extra::L1EmParticle> >
+class edm::RefVector<std::vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle> >
+class edm::RefVector<std::vector<l1extra::L1HFRings>,l1extra::L1HFRings,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1HFRings>,l1extra::L1HFRings> >
+class edm::RefVector<std::vector<l1extra::L1JetParticle>,l1extra::L1JetParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1JetParticle>,l1extra::L1JetParticle> >
+class edm::RefVector<std::vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle> >
+class edm::RefVector<vector<l1extra::L1EmParticle>,l1extra::L1EmParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1EmParticle>,l1extra::L1EmParticle> >
+class edm::RefVector<vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle> >
+class edm::RefVector<vector<l1extra::L1HFRings>,l1extra::L1HFRings,edm::refhelper::FindUsingAdvance<vector<l1extra::L1HFRings>,l1extra::L1HFRings> >
+class edm::RefVector<vector<l1extra::L1JetParticle>,l1extra::L1JetParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1JetParticle>,l1extra::L1JetParticle> >
+class edm::RefVector<vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle> >
+class edm::Wrapper<BXVector<l1t::CaloSpare> >
+class edm::Wrapper<BXVector<l1t::EGamma> >
+class edm::Wrapper<BXVector<l1t::EtSum> >
+class edm::Wrapper<BXVector<l1t::Jet> >
+class edm::Wrapper<BXVector<l1t::L1Candidate> >
+class edm::Wrapper<BXVector<l1t::L1DataEmulResult> >
+class edm::Wrapper<BXVector<l1t::Muon> >
+class edm::Wrapper<BXVector<l1t::Tau> >
+class edm::Wrapper<L1DataEmulRecord>
+class edm::Wrapper<edm::Ref<BXVector<l1t::EGamma>,l1t::EGamma,edm::refhelper::FindUsingAdvance<BXVector<l1t::EGamma>,l1t::EGamma> > >
+class edm::Wrapper<edm::Ref<BXVector<l1t::EtSum>,l1t::EtSum,edm::refhelper::FindUsingAdvance<BXVector<l1t::EtSum>,l1t::EtSum> > >
+class edm::Wrapper<edm::Ref<BXVector<l1t::Jet>,l1t::Jet,edm::refhelper::FindUsingAdvance<BXVector<l1t::Jet>,l1t::Jet> > >
+class edm::Wrapper<edm::Ref<BXVector<l1t::L1Candidate>,l1t::L1Candidate,edm::refhelper::FindUsingAdvance<BXVector<l1t::L1Candidate>,l1t::L1Candidate> > >
+class edm::Wrapper<edm::Ref<BXVector<l1t::Muon>,l1t::Muon,edm::refhelper::FindUsingAdvance<BXVector<l1t::Muon>,l1t::Muon> > >
+class edm::Wrapper<edm::Ref<BXVector<l1t::Tau>,l1t::Tau,edm::refhelper::FindUsingAdvance<BXVector<l1t::Tau>,l1t::Tau> > >
+class edm::Wrapper<edm::RefVector<BXVector<l1t::EGamma>,l1t::EGamma,edm::refhelper::FindUsingAdvance<BXVector<l1t::EGamma>,l1t::EGamma> > >
+class edm::Wrapper<edm::RefVector<BXVector<l1t::EtSum>,l1t::EtSum,edm::refhelper::FindUsingAdvance<BXVector<l1t::EtSum>,l1t::EtSum> > >
+class edm::Wrapper<edm::RefVector<BXVector<l1t::Jet>,l1t::Jet,edm::refhelper::FindUsingAdvance<BXVector<l1t::Jet>,l1t::Jet> > >
+class edm::Wrapper<edm::RefVector<BXVector<l1t::L1Candidate>,l1t::L1Candidate,edm::refhelper::FindUsingAdvance<BXVector<l1t::L1Candidate>,l1t::L1Candidate> > >
+class edm::Wrapper<edm::RefVector<BXVector<l1t::Muon>,l1t::Muon,edm::refhelper::FindUsingAdvance<BXVector<l1t::Muon>,l1t::Muon> > >
+class edm::Wrapper<edm::RefVector<BXVector<l1t::Tau>,l1t::Tau,edm::refhelper::FindUsingAdvance<BXVector<l1t::Tau>,l1t::Tau> > >
+class edm::Wrapper<l1extra::L1EtMissParticle>
+class edm::Wrapper<l1t::CaloSpareBxCollection>
+class edm::Wrapper<l1t::EGammaBxCollection>
+class edm::Wrapper<l1t::EGammaRef>
+class edm::Wrapper<l1t::EGammaRefVector>
+class edm::Wrapper<l1t::EGammaVectorRef>
+class edm::Wrapper<l1t::EtSumBxCollection>
+class edm::Wrapper<l1t::EtSumRef>
+class edm::Wrapper<l1t::EtSumRefVector>
+class edm::Wrapper<l1t::EtSumVectorRef>
+class edm::Wrapper<l1t::JetBxCollection>
+class edm::Wrapper<l1t::JetRef>
+class edm::Wrapper<l1t::JetRefVector>
+class edm::Wrapper<l1t::JetVectorRef>
+class edm::Wrapper<l1t::L1CandidateBxCollection>
+class edm::Wrapper<l1t::L1CandidateRef>
+class edm::Wrapper<l1t::L1CandidateRefVector>
+class edm::Wrapper<l1t::L1CandidateVectorRef>
+class edm::Wrapper<l1t::L1DataEmulResultBxCollection>
+class edm::Wrapper<l1t::MuonBxCollection>
+class edm::Wrapper<l1t::MuonRef>
+class edm::Wrapper<l1t::MuonRefVector>
+class edm::Wrapper<l1t::MuonVectorRef>
+class edm::Wrapper<l1t::TauBxCollection>
+class edm::Wrapper<l1t::TauRef>
+class edm::Wrapper<l1t::TauRefVector>
+class edm::Wrapper<l1t::TauVectorRef>
+class edm::Wrapper<std::vector<L1TriggerError> >
+class edm::Wrapper<std::vector<l1extra::L1EmParticle> >
+class edm::Wrapper<std::vector<l1extra::L1EtMissParticle> >
+class edm::Wrapper<std::vector<l1extra::L1HFRings> >
+class edm::Wrapper<std::vector<l1extra::L1JetParticle> >
+class edm::Wrapper<std::vector<l1extra::L1MuonParticle> >
+class edm::Wrapper<std::vector<l1extra::L1ParticleMap> >
+class edm::Wrapper<vector<L1TriggerError> >
+class edm::Wrapper<vector<edm::Ref<BXVector<l1t::EGamma>,l1t::EGamma,edm::refhelper::FindUsingAdvance<BXVector<l1t::EGamma>,l1t::EGamma> > > >
+class edm::Wrapper<vector<edm::Ref<BXVector<l1t::EtSum>,l1t::EtSum,edm::refhelper::FindUsingAdvance<BXVector<l1t::EtSum>,l1t::EtSum> > > >
+class edm::Wrapper<vector<edm::Ref<BXVector<l1t::Jet>,l1t::Jet,edm::refhelper::FindUsingAdvance<BXVector<l1t::Jet>,l1t::Jet> > > >
+class edm::Wrapper<vector<edm::Ref<BXVector<l1t::L1Candidate>,l1t::L1Candidate,edm::refhelper::FindUsingAdvance<BXVector<l1t::L1Candidate>,l1t::L1Candidate> > > >
+class edm::Wrapper<vector<edm::Ref<BXVector<l1t::Muon>,l1t::Muon,edm::refhelper::FindUsingAdvance<BXVector<l1t::Muon>,l1t::Muon> > > >
+class edm::Wrapper<vector<edm::Ref<BXVector<l1t::Tau>,l1t::Tau,edm::refhelper::FindUsingAdvance<BXVector<l1t::Tau>,l1t::Tau> > > >
+class edm::Wrapper<vector<l1extra::L1EmParticle> >
+class edm::Wrapper<vector<l1extra::L1EtMissParticle> >
+class edm::Wrapper<vector<l1extra::L1HFRings> >
+class edm::Wrapper<vector<l1extra::L1JetParticle> >
+class edm::Wrapper<vector<l1extra::L1MuonParticle> >
+class edm::Wrapper<vector<l1extra::L1ParticleMap> >
+class edm::reftobase::Holder<reco::Candidate,edm::Ref<std::vector<l1extra::L1EmParticle>,l1extra::L1EmParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1EmParticle>,l1extra::L1EmParticle> > >
+class edm::reftobase::Holder<reco::Candidate,edm::Ref<std::vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle> > >
+class edm::reftobase::Holder<reco::Candidate,edm::Ref<std::vector<l1extra::L1JetParticle>,l1extra::L1JetParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1JetParticle>,l1extra::L1JetParticle> > >
+class edm::reftobase::Holder<reco::Candidate,edm::Ref<std::vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle> > >
+class edm::reftobase::Holder<reco::Candidate,edm::Ref<vector<l1extra::L1EmParticle>,l1extra::L1EmParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1EmParticle>,l1extra::L1EmParticle> > >
+class edm::reftobase::Holder<reco::Candidate,edm::Ref<vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle> > >
+class edm::reftobase::Holder<reco::Candidate,edm::Ref<vector<l1extra::L1JetParticle>,l1extra::L1JetParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1JetParticle>,l1extra::L1JetParticle> > >
+class edm::reftobase::Holder<reco::Candidate,edm::Ref<vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle> > >
+class edm::reftobase::Holder<reco::Candidate,edm::RefProd<l1extra::L1EtMissParticle> >
+class l1extra::L1EmParticle
+class l1extra::L1EtMissParticle
+class l1extra::L1HFRings
+class l1extra::L1JetParticle
+class l1extra::L1MuonParticle
+class l1extra::L1ParticleMap
+class l1t::CaloSpare
+class l1t::CaloSpareBxCollection
+class l1t::EGamma
+class l1t::EGammaBxCollection
+class l1t::EGammaRef
+class l1t::EGammaRefVector
+class l1t::EGammaVectorRef
+class l1t::EtSum
+class l1t::EtSumBxCollection
+class l1t::EtSumRef
+class l1t::EtSumRefVector
+class l1t::EtSumVectorRef
+class l1t::Jet
+class l1t::JetBxCollection
+class l1t::JetRef
+class l1t::JetRefVector
+class l1t::JetVectorRef
+class l1t::L1Candidate
+class l1t::L1CandidateBxCollection
+class l1t::L1CandidateRef
+class l1t::L1CandidateRefVector
+class l1t::L1CandidateVectorRef
+class l1t::L1DataEmulResult
+class l1t::L1DataEmulResultBxCollection
+class l1t::Muon
+class l1t::MuonBxCollection
+class l1t::MuonRef
+class l1t::MuonRefVector
+class l1t::MuonVectorRef
+class l1t::Tau
+class l1t::TauBxCollection
+class l1t::TauRef
+class l1t::TauRefVector
+class l1t::TauVectorRef
+class vector<L1DataEmulDigi>
+class vector<L1TriggerError>
+class vector<edm::Ref<BXVector<l1t::EGamma>,l1t::EGamma,edm::refhelper::FindUsingAdvance<BXVector<l1t::EGamma>,l1t::EGamma> > >
+class vector<edm::Ref<BXVector<l1t::EtSum>,l1t::EtSum,edm::refhelper::FindUsingAdvance<BXVector<l1t::EtSum>,l1t::EtSum> > >
+class vector<edm::Ref<BXVector<l1t::Jet>,l1t::Jet,edm::refhelper::FindUsingAdvance<BXVector<l1t::Jet>,l1t::Jet> > >
+class vector<edm::Ref<BXVector<l1t::L1Candidate>,l1t::L1Candidate,edm::refhelper::FindUsingAdvance<BXVector<l1t::L1Candidate>,l1t::L1Candidate> > >
+class vector<edm::Ref<BXVector<l1t::Muon>,l1t::Muon,edm::refhelper::FindUsingAdvance<BXVector<l1t::Muon>,l1t::Muon> > >
+class vector<edm::Ref<BXVector<l1t::Tau>,l1t::Tau,edm::refhelper::FindUsingAdvance<BXVector<l1t::Tau>,l1t::Tau> > >
+class vector<edm::Ref<std::vector<l1extra::L1EmParticle>,l1extra::L1EmParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1EmParticle>,l1extra::L1EmParticle> > >
+class vector<edm::Ref<std::vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle> > >
+class vector<edm::Ref<std::vector<l1extra::L1HFRings>,l1extra::L1HFRings,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1HFRings>,l1extra::L1HFRings> > >
+class vector<edm::Ref<std::vector<l1extra::L1JetParticle>,l1extra::L1JetParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1JetParticle>,l1extra::L1JetParticle> > >
+class vector<edm::Ref<std::vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle,edm::refhelper::FindUsingAdvance<std::vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle> > >
+class vector<edm::Ref<vector<l1extra::L1EmParticle>,l1extra::L1EmParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1EmParticle>,l1extra::L1EmParticle> > >
+class vector<edm::Ref<vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1EtMissParticle>,l1extra::L1EtMissParticle> > >
+class vector<edm::Ref<vector<l1extra::L1HFRings>,l1extra::L1HFRings,edm::refhelper::FindUsingAdvance<vector<l1extra::L1HFRings>,l1extra::L1HFRings> > >
+class vector<edm::Ref<vector<l1extra::L1JetParticle>,l1extra::L1JetParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1JetParticle>,l1extra::L1JetParticle> > >
+class vector<edm::Ref<vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle,edm::refhelper::FindUsingAdvance<vector<l1extra::L1MuonParticle>,l1extra::L1MuonParticle> > >
+class vector<l1extra::L1EmParticle>
+class vector<l1extra::L1EtMissParticle>
+class vector<l1extra::L1HFRings>
+class vector<l1extra::L1JetParticle>
+class vector<l1extra::L1MuonParticle>
+class vector<l1extra::L1ParticleMap::L1ObjectType>
+class vector<l1extra::L1ParticleMap>
+header DataFormats/L1Trigger/interface/L1DataEmulDigi.h
+header DataFormats/L1Trigger/interface/L1DataEmulRecord.h
+header DataFormats/L1Trigger/interface/L1MonitorDigi.h
+header DataFormats/L1Trigger/interface/L1TriggerError.h
+header DataFormats/L1Trigger/interface/L1EmParticle.h
+header DataFormats/L1Trigger/interface/L1EtMissParticle.h
+header DataFormats/L1Trigger/interface/L1HFRings.h
+header DataFormats/L1Trigger/interface/L1JetParticle.h
+header DataFormats/L1Trigger/interface/L1MuonParticle.h
+header DataFormats/L1Trigger/interface/L1ParticleMap.h
+header DataFormats/L1Trigger/interface/CaloSpare.h
+header DataFormats/L1Trigger/interface/EGamma.h
+header DataFormats/L1Trigger/interface/EtSum.h
+header DataFormats/L1Trigger/interface/Jet.h
+header DataFormats/L1Trigger/interface/L1Candidate.h
+header DataFormats/L1Trigger/interface/L1DataEmulResult.h
+header DataFormats/L1Trigger/interface/Muon.h
+header DataFormats/L1Trigger/interface/Tau.h
+# List of selected typedefs and outer classes

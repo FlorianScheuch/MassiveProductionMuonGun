@@ -1,0 +1,5 @@
+tmp/slc6_amd64_gcc530/src/CondCore/Utilities/bin/conddb_import/conddb_import.o: \
+ src/CondCore/Utilities/bin/conddb_import.cpp \
+ src/CondCore/Utilities/interface/Utilities.h \
+ src/CondCore/Utilities/interface/CondDBTools.h
+

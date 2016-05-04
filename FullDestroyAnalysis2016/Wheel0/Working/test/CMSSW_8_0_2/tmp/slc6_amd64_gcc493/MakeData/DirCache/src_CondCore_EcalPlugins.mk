@@ -1,0 +1,2 @@
+ALL_PACKAGES += CondCore/EcalPlugins
+subdirs_src_CondCore_EcalPlugins := src_CondCore_EcalPlugins_src src_CondCore_EcalPlugins_test src_CondCore_EcalPlugins_plugins

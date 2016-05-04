@@ -1,0 +1,4 @@
+plugin-poisoned-ElectroWeakAnalysisWENu.so GenPurposeSkimmerData CMS%EDM%Framework%Module
+plugin-poisoned-ElectroWeakAnalysisWENu.so GenPurposeSkimmerData CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-ElectroWeakAnalysisWENu.so WenuPlots CMS%EDM%Framework%Module
+plugin-poisoned-ElectroWeakAnalysisWENu.so WenuPlots CMS%EDM%Framework%ParameterSet%Description

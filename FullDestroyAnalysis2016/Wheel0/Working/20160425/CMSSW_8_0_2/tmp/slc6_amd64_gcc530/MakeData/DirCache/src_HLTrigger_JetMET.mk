@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTrigger/JetMET
+subdirs_src_HLTrigger_JetMET := src_HLTrigger_JetMET_python src_HLTrigger_JetMET_src src_HLTrigger_JetMET_plugins

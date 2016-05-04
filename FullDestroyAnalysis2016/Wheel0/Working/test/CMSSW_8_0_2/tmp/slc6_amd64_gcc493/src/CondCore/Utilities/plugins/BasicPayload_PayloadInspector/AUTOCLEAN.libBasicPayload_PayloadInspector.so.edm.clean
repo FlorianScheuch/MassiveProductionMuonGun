@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc493/pluginBasicPayload_PayloadInspector.so lib/slc6_amd64_gcc493/BasicPayload_PayloadInspector.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc493

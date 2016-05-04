@@ -1,0 +1,4 @@
+plugin-poisoned-HLTriggerOfflineJetMET.so HLTJetMETValidation CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineJetMET.so HLTJetMETValidation CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HLTriggerOfflineJetMET.so JetMETDQMPostProcessor CMS%EDM%Framework%Module
+plugin-poisoned-HLTriggerOfflineJetMET.so JetMETDQMPostProcessor CMS%EDM%Framework%ParameterSet%Description

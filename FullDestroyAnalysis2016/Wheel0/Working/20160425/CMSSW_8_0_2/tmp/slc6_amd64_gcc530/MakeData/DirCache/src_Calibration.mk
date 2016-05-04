@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=Calibration
+subdirs_src_Calibration = src_Calibration_HcalAlCaRecoProducers src_Calibration_IsolatedParticles src_Calibration_HcalIsolatedTrackReco src_Calibration_EcalAlCaRecoProducers

@@ -1,0 +1,4 @@
+plugin-poisoned-EventFilterL1TXRawToDigiAuto.so L1TCaloLayer1RawToDigi CMS%EDM%Framework%Module
+plugin-poisoned-EventFilterL1TXRawToDigiAuto.so L1TCaloLayer1RawToDigi CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-EventFilterL1TXRawToDigiAuto.so L1TTwinMuxRawToDigi CMS%EDM%Framework%Module
+plugin-poisoned-EventFilterL1TXRawToDigiAuto.so L1TTwinMuxRawToDigi CMS%EDM%Framework%ParameterSet%Description

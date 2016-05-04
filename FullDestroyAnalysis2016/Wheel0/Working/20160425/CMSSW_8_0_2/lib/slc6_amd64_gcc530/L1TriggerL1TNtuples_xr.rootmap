@@ -1,0 +1,59 @@
+{ decls }
+namespace L1Analysis {  }
+
+[ libL1TriggerL1TNtuples.so ]
+# List of selected classes
+class L1Analysis::L1AnalysisCSCTFDataFormat
+class L1Analysis::L1AnalysisCaloTPDataFormat
+class L1Analysis::L1AnalysisDTTFDataFormat
+class L1Analysis::L1AnalysisEventDataFormat
+class L1Analysis::L1AnalysisGCTDataFormat
+class L1Analysis::L1AnalysisGMTDataFormat
+class L1Analysis::L1AnalysisGTDataFormat
+class L1Analysis::L1AnalysisGeneratorDataFormat
+class L1Analysis::L1AnalysisL1CaloClusterDataFormat
+class L1Analysis::L1AnalysisL1CaloTowerDataFormat
+class L1Analysis::L1AnalysisL1ExtraDataFormat
+class L1Analysis::L1AnalysisL1MenuDataFormat
+class L1Analysis::L1AnalysisL1UpgradeDataFormat
+class L1Analysis::L1AnalysisL1UpgradeTfMuonDataFormat
+class L1Analysis::L1AnalysisRCTDataFormat
+class L1Analysis::L1AnalysisRecoClusterDataFormat
+class L1Analysis::L1AnalysisRecoElectronDataFormat
+class L1Analysis::L1AnalysisRecoJetDataFormat
+class L1Analysis::L1AnalysisRecoMetDataFormat
+class L1Analysis::L1AnalysisRecoMetFilterDataFormat
+class L1Analysis::L1AnalysisRecoMuon2DataFormat
+class L1Analysis::L1AnalysisRecoMuonDataFormat
+class L1Analysis::L1AnalysisRecoRpcHitDataFormat
+class L1Analysis::L1AnalysisRecoTauDataFormat
+class L1Analysis::L1AnalysisRecoTrackDataFormat
+class L1Analysis::L1AnalysisRecoVertexDataFormat
+class L1Analysis::L1AnalysisSimulationDataFormat
+header L1Trigger/L1TNtuples/interface/L1AnalysisCSCTFDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisCaloTPDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisDTTFDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisEventDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisGCTDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisGMTDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisGTDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisGeneratorDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisL1CaloClusterDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisL1CaloTowerDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisL1ExtraDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisL1MenuDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisL1UpgradeDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisL1UpgradeTfMuonDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRCTDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoClusterDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoElectronDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoJetDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoMetDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoMetFilterDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoMuon2DataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoMuonDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoRpcHitDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoTauDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoTrackDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisRecoVertexDataFormat.h
+header L1Trigger/L1TNtuples/interface/L1AnalysisSimulationDataFormat.h

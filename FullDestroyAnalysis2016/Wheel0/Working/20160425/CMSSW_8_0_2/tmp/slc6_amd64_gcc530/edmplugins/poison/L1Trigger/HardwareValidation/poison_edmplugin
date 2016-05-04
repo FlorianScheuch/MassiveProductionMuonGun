@@ -1,0 +1,10 @@
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so L1Comparator CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so L1Comparator CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so L1DEFilter CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so L1DEFilter CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so L1DummyProducer CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so L1DummyProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so L1EmulBias CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so L1EmulBias CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so l1t::L1ComparatorRun2 CMS%EDM%Framework%Module
+plugin-poisoned-L1TriggerHardwareValidationPlugins.so l1t::L1ComparatorRun2 CMS%EDM%Framework%ParameterSet%Description

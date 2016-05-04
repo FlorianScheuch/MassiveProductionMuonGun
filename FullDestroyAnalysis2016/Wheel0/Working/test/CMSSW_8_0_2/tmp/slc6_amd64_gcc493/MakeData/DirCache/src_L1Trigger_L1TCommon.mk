@@ -1,0 +1,2 @@
+ALL_PACKAGES += L1Trigger/L1TCommon
+subdirs_src_L1Trigger_L1TCommon := src_L1Trigger_L1TCommon_scripts src_L1Trigger_L1TCommon_python src_L1Trigger_L1TCommon_test src_L1Trigger_L1TCommon_plugins src_L1Trigger_L1TCommon_macros

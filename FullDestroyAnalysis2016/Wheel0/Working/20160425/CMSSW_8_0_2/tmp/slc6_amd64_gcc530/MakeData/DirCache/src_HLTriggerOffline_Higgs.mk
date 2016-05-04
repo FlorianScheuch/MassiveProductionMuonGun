@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTriggerOffline/Higgs
+subdirs_src_HLTriggerOffline_Higgs := src_HLTriggerOffline_Higgs_python src_HLTriggerOffline_Higgs_src src_HLTriggerOffline_Higgs_test src_HLTriggerOffline_Higgs_interface src_HLTriggerOffline_Higgs_doc src_HLTriggerOffline_Higgs_data

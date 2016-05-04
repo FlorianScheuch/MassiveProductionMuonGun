@@ -1,0 +1,2 @@
+ALL_PACKAGES += L1Trigger/L1TMuonBarrel
+subdirs_src_L1Trigger_L1TMuonBarrel := src_L1Trigger_L1TMuonBarrel_python src_L1Trigger_L1TMuonBarrel_src src_L1Trigger_L1TMuonBarrel_test src_L1Trigger_L1TMuonBarrel_plugins src_L1Trigger_L1TMuonBarrel_interface

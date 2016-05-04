@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTrigger/Egamma
+subdirs_src_HLTrigger_Egamma := src_HLTrigger_Egamma_python src_HLTrigger_Egamma_src src_HLTrigger_Egamma_interface

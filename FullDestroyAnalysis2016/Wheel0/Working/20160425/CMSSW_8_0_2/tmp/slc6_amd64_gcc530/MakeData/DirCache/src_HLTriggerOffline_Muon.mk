@@ -1,0 +1,2 @@
+ALL_PACKAGES += HLTriggerOffline/Muon
+subdirs_src_HLTriggerOffline_Muon := src_HLTriggerOffline_Muon_python src_HLTriggerOffline_Muon_src src_HLTriggerOffline_Muon_test src_HLTriggerOffline_Muon_data

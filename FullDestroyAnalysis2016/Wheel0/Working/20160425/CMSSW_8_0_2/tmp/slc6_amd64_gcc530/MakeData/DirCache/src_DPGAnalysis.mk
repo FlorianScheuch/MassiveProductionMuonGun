@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=DPGAnalysis
+subdirs_src_DPGAnalysis = src_DPGAnalysis_Skims

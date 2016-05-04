@@ -1,0 +1,2 @@
+ALL_PACKAGES += L1Trigger/Configuration
+subdirs_src_L1Trigger_Configuration := src_L1Trigger_Configuration_python src_L1Trigger_Configuration_test

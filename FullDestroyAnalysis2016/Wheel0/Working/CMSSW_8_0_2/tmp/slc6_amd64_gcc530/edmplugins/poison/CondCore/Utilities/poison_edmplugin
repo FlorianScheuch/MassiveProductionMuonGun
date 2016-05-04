@@ -1,0 +1,2 @@
+plugin-poisoned-CondEmptyIOVSource.so EmptyIOVSource CMS%EDM%Framework%InputSource
+plugin-poisoned-CondEmptyIOVSource.so EmptyIOVSource CMS%EDM%Framework%ParameterSet%Description
